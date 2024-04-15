@@ -94,7 +94,7 @@ The leetcode comprises of SQL Interview questions. Would like to contact with li
       <tr>
       <td>14.</td>
       <td>Confirmation Rate</td>
-      <td><a href="#">Link</a></td>
+      <td><a href="">Link</a></td>
       <td>Select</td>
     </tr>
       <tr>
